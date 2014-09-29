@@ -2,6 +2,7 @@ Hotend-Simple-ONE
 =================
 
 Hotend full metal for 1.75 mm or 3.00 mm filaments,nozzle 0.40 mm up to +300°C
+Video >>>https://www.youtube.com/watch?v=AoBjYKkYjN4&index=17&list=UUwAGjxkHPwfQm9ndyf7dp0Q
 
 ![](https://raw.githubusercontent.com/Fourmi/Hotend-Simple-ONE/master/Pictures/simple%20one.JPG)
 
